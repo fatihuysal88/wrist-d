@@ -25,6 +25,14 @@ to do list in 3 months (april, may , june 2021)
 - symmetry (index: sci, if: 2.645, jcr: q2)
 # preprint
 preprint is being prepared for arxiv
+# paper links
+**Paper**: Under Review  
+
+**Preprint**: It will be added soon  
+
+**Papers With Code**: It will be added soon  
+
+**GitHub**: https://github.com/fatihuysal88/wrist-d  
 # authors
 * **Fatih UYSAL** - [fatihuysal88](https://github.com/fatihuysal88)
 * **Fırat HARDALAÇ**
