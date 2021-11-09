@@ -3,13 +3,13 @@ PyTorch Implementation for Fracture Detection in Wrist Bone X-ray Images
 # note:
 **Paper**: Under Review  
 # abstract
-It will be added soon  
+It will be added after the research paper is accepted/published  
 # paper links
 **Paper**: Under Review  
 
-**Preprint**: It will be added soon  
+**Preprint**: It will be added after the research paper is accepted/published  
 
-**Papers With Code**: It will be added soon  
+**Papers With Code**: It will be added after the research paper is accepted/published  
 
 **GitHub**: https://github.com/fatihuysal88/wrist-d  
 # authors
@@ -25,6 +25,23 @@ It will be added soon
 # keywords
 Artificial Intelligence, Biomedical Image Processing, Bone Fractures, Deep Learning, Fracture Detection, Object Detection, Transfer Learning, Wrist, X-ray.
 # proposed detection models
-under preparation
+It will be added after the research paper is accepted/published  
 # model performans
-under preparation
+It will be added after the research paper is accepted/published  
+# requirements
+  
+<a href="https://github.com/open-mmlab/mmdetection">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=open-mmlab&repo=mmdetection&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" width="350" height="180"/><a 
+  href="https://github.com/kemaloksuz/LRP-Error">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kemaloksuz&repo=LRP-Error&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" width="350" height="180"/>
+  <a href="https://github.com/rafaelpadilla/review_object_detection_metrics">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelpadilla&repo=review_object_detection_metrics&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" width="350" height="180"/><a 
+  href="https://github.com/albumentations-team/albumentations">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=albumentations-team&repo=albumentations&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" width="350" height="180"/>      
+  <a href="https://github.com/ppwwyyxx/cocoapi">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ppwwyyxx&repo=cocoapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" width="350" height="180"/><a 
+  href="https://github.com/pytorch/pytorch">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=pytorch&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" width="350" height="180"/>
+  <a href="https://github.com/ZFTurbo/Weighted-Boxes-Fusion">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ZFTurbo&repo=Weighted-Boxes-Fusion&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" width="350" height="150"/> 
+  
