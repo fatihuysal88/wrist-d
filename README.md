@@ -1,15 +1,15 @@
 # wrist-d
 PyTorch Implementation for Fracture Detection in Wrist Bone X-ray Images
 # note:
-**Paper**: Under Review  
+**Paper**: Under Review at MPDI Diagnostics  
 # abstract
-It will be added after the research paper is accepted/published  
+It will be added soon  
 # paper links
-**Paper**: Under Review  
+**Paper**: Under Review at MPDI Diagnostics  
 
-**Preprint**: It will be added after the research paper is accepted/published  
+**Preprint**: It will be added soon  
 
-**Papers With Code**: It will be added after the research paper is accepted/published  
+**Papers With Code**: It will be added soon  
 
 **GitHub**: https://github.com/fatihuysal88/wrist-d  
 # authors
@@ -25,9 +25,9 @@ It will be added after the research paper is accepted/published
 # keywords
 Artificial Intelligence, Biomedical Image Processing, Bone Fractures, Deep Learning, Fracture Detection, Object Detection, Transfer Learning, Wrist, X-ray.
 # proposed detection models
-It will be added after the research paper is accepted/published  
+It will be added soon  
 # model performans
-It will be added after the research paper is accepted/published  
+It will be added soon  
 # requirements
   
 <a href="https://github.com/open-mmlab/mmdetection">
