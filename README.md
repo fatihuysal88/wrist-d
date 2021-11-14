@@ -26,8 +26,10 @@ It will be added soon
 Artificial Intelligence, Biomedical Image Processing, Bone Fractures, Deep Learning, Fracture Detection, Object Detection, Transfer Learning, Wrist, X-ray.
 # proposed detection models
 ![models](https://github.com/fatihuysal88/wrist-d/blob/main/docs/figs/proposed%20detection%20models.png)
+# proposed ensemble models
+![models](https://github.com/fatihuysal88/wrist-d/blob/main/docs/figs/proposed%20ensemble%20models.png)
 # model performance
-It will be added soon  
+![models](https://github.com/fatihuysal88/wrist-d/blob/main/docs/figs/ensemble%20models%20performance.PNG) 
 # requirements
   
 <a href="https://github.com/open-mmlab/mmdetection">
