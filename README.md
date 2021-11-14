@@ -33,6 +33,9 @@ Wrist fractures are common cases in hospitals, particularly in emergency service
 # model performance
 ![models](https://github.com/fatihuysal88/wrist-d/blob/main/docs/figs/ensemble%20models%20performance.PNG)
 # sample of wrist fracture results
+![models](https://github.com/fatihuysal88/wrist-d/blob/main/docs/figs/sample%20of%20wrist%20fracture%20results.PNG)
+
+**Note**: ground-truth bounding box (green), predicted bounding box (red)  
 
 # requirements
   
