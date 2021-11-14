@@ -2,15 +2,15 @@
 - 20 deep learning-based object detection models
 - Proposed WFD ensemble models
 # i) transfer learning with MMDetection
-- DCN
-- Dynamic R-CNN
-- Faster R-CNN
-- FSAF
-- Libra R-CNN
-- PAA
-- RetinaNet
-- RegNet
-- SABL
+- DCNv2 (Faster R-CNN) with ResNet50 Bacbone Network
+- Dynamic R-CNN with ResNet50 Bacbone Network
+- Faster R-CNN with ResNet50 Bacbone Network
+- FSAF with ResNet50 Bacbone Network
+- Libra R-CNN (RetinaNet) with ResNet50 Bacbone Network
+- PAA with ResNet50 Bacbone Network
+- RetinaNet with ResNet50 Bacbone Network
+- RegNet (RetinaNet) with RegNetX-3.2GF Bacbone Network
+- SABL (Faster R-CNN and RetinaNet) with ResNet50 Bacbone Network
 # ii) Proposed WFD ensemble models
 - WFD-1 (RegNet, FSAF, RetinaNet, SABL RetinaNet, PAA), (1, 5, 5, 5, 5)
 - WFD-2 (DCN, SABL Faster R-CNN), (2, 2)
