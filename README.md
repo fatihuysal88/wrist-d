@@ -2,6 +2,8 @@
 PyTorch Implementation for Fracture Detection in Wrist Bone X-ray Images
 # note:
 **Paper**: Under Review at MPDI Diagnostics  
+
+**Submission Date**: November 12, 2021  
 # abstract
 It will be added soon  
 # paper links
