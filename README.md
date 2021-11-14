@@ -31,7 +31,9 @@ Wrist fractures are common cases in hospitals, particularly in emergency service
 # proposed ensemble models
 ![models](https://github.com/fatihuysal88/wrist-d/blob/main/docs/figs/proposed%20ensemble%20models.png)
 # model performance
-![models](https://github.com/fatihuysal88/wrist-d/blob/main/docs/figs/ensemble%20models%20performance.PNG) 
+![models](https://github.com/fatihuysal88/wrist-d/blob/main/docs/figs/ensemble%20models%20performance.PNG)
+# sample of wrist fracture results
+
 # requirements
   
 <a href="https://github.com/open-mmlab/mmdetection">
