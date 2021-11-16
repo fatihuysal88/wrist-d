@@ -1,4 +1,13 @@
 # wrist-d
+<p align="left">
+  
+<a>[![LICENSE](https://img.shields.io/github/license/fatihuysal88/wrist-d.svg)](https://github.com/fatihuysal88/wrist-d/blob/master/LICENSE)</a>
+<a href="https://www.mdpi.com/journal/diagnostics/special_issues/Computer-Aided_Diagnosis">
+    <img src="https://img.shields.io/badge/paper-under review-blue"/></a>
+<a href="https://doi.org/10.3390/app11062723">
+    <img src="https://img.shields.io/badge/arxiv-preprint-green"/></a>
+</p>
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fracture-detection-in-wrist-x-ray-images/medical-object-detection-on-gazi-university)](https://paperswithcode.com/sota/medical-object-detection-on-gazi-university?p=fracture-detection-in-wrist-x-ray-images)  
 PyTorch Implementation for Fracture Detection in Wrist Bone X-ray Images
 # note:
