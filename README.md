@@ -1,7 +1,7 @@
 # wrist-d
 <p align="left">
   
-<a>[![LICENSE](https://img.shields.io/github/license/fatihuysal88/shoulder-c.svg)](https://github.com/fatihuysal88/wrist-d/blob/master/LICENSE)</a>
+<a>[![LICENSE](https://img.shields.io/github/license/fatihuysal88/wrist-d.svg)](https://github.com/fatihuysal88/wrist-d/blob/master/LICENSE)</a>
 <a href="https://www.mdpi.com/journal/diagnostics/special_issues/Computer-Aided_Diagnosis">
     <img src="https://img.shields.io/badge/paper-under review-blue"/></a>
 <a href="https://arxiv.org/abs/2111.07355">
