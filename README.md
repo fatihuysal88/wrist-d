@@ -1,4 +1,5 @@
 # wrist-d
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fracture-detection-in-wrist-x-ray-images/medical-object-detection-on-gazi-university)](https://paperswithcode.com/sota/medical-object-detection-on-gazi-university?p=fracture-detection-in-wrist-x-ray-images)
 PyTorch Implementation for Fracture Detection in Wrist Bone X-ray Images
 # note:
 **Paper**: Under Review at MPDI Diagnostics  
