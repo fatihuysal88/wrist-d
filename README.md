@@ -11,9 +11,9 @@ Wrist fractures are common cases in hospitals, particularly in emergency service
 # paper links
 **Paper**: Under Review at MPDI Diagnostics  
 
-**Preprint**: It will be added soon  
+**Preprint**: https://arxiv.org/abs/2111.07355  
 
-**Papers With Code**: It will be added soon  
+**Papers With Code**: https://paperswithcode.com/paper/fracture-detection-in-wrist-x-ray-images  
 
 **GitHub**: https://github.com/fatihuysal88/wrist-d  
 # authors
