@@ -15,7 +15,7 @@ PyTorch Implementation for Fracture Detection in Wrist Bone X-ray Images
 
 **Submission Date**: November 12, 2021  
 # abstract
-Wrist fractures are common cases in hospitals, particularly in emergency services. Physicians need images from various medical devices, and patient’s medical history and physical examination to diagnose these fractures correctly and apply proper treatment. This study aims to perform fracture detection using deep-learning on wrist X-ray images to assist physicians not specialized in the field, working in emergency services in particular, in diagnosis of fractures. For this purpose, 20 different detection procedures were performed using deep learning-based object detection models on dataset of wrist X-ray images obtained from Gazi University Hospital. DCN, Dynamic R-CNN, Faster R-CNN, FSAF, Libra R-CNN, PAA, RetinaNet, RegNet and SABL deep learning-based object detection models with various backbones were used herein. To further improve detection procedures in the study, 5 different ensemble models were developed, which were later used to reform an ensemble model to develop a detection model unique to our study, titled ‘wrist fracture detection-combo (WFD-C)’. Based on detection of 26 different fractures in total, the highest result of detection was 0.8639 average precision (AP50) in WFD-C model developed. This study is supported by Huawei Turkey R&D Center within the scope of the ongoing cooperation project coded 071813 among Gazi University, Huawei and Medskor.  
+It will be added after research paper accepted  
 
 **Keywords**: artificial intelligence; biomedical image processing; bone fractures; deep learning; fracture detection; object detection; transfer learning; wrist; X-ray  
 # paper links
