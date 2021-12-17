@@ -1,0 +1,49 @@
+{
+  "model": [
+    {
+      "name": "faster_rcnn_r50",
+      "config_path": "./_configs/faster_rcnn_r50_fpn_1x_coco_albu.py",
+      "weight_path": "./_weights/faster_rcnn_r50_albu.pth"
+    },
+    {
+      "name": "faster_rcnn_r50_mdconv",
+      "config_path": "./_configs/faster_rcnn_r50_fpn_mdconv_c3-c5_1x_coco_albu.py",
+      "weight_path": "./_weights/faster_rcnn_r50_fpn_mdconv_c3-c5_1x_coco_albu.pth"
+    },
+    {
+      "name": "fsaf_r50",
+      "config_path": "./_configs/fsaf_r50_fpn_1x_coco_albu.py",
+      "weight_path": "./_weights/fsaf_r50_albu.pth"
+    },
+    {
+      "name": "paa_r50",
+      "config_path": "./_configs/paa_r50_fpn_1x_coco_albu.py",
+      "weight_path": "./_weights/paa_r50_albu.pth"
+    },
+    {
+      "name": "retinanet_r50",
+      "config_path": "./_configs/retinanet_r50_fpn_1x_coco_albu.py",
+      "weight_path": "./_weights/retinanet_r50_albu.pth"
+    },
+    {
+      "name": "retinanet_regnetx",
+      "config_path": "./_configs/retinanet_regnetx-3.2GF_fpn_1x_coco_albu.py",
+      "weight_path": "./_weights/retinanet_regnetx-3.2GF_albu.pth"
+    },
+    {
+      "name": "sabl_faster_rcnn_r50",
+      "config_path": "./_configs/sabl_faster_rcnn_r50_fpn_1x_coco_albu.py",
+      "weight_path": "./_weights/sabl_faster_rcnn_r50_fpn_1x_coco_albu.pth"
+    },
+    {
+      "name": "sabl_retinanet_r50",
+      "config_path": "./_configs/sabl_retinanet_r50_fpn_1x_coco_albu.py",
+      "weight_path": "./_weights/sabl_retinanet_r50_fpn_1x_albu.pth"
+    },
+    {
+      "name": "libra_retinanet_r50",
+      "config_path": "./_configs/libra_retinanet_r50_fpn_1x_coco_albu.py",
+      "weight_path": "./_weights/libra_retinanet_r50_albu.pth"
+    }
+  ]
+}

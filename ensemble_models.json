@@ -1,0 +1,96 @@
+{
+  "ensemble_models": [
+    {
+      "name": "WFD-1(SS)",
+      "submodels": [
+        "./csv_output/retinanet_regnetx.csv",
+        "./csv_output/fsaf_r50.csv",
+        "./csv_output/retinanet_r50.csv",
+        "./csv_output/sabl_retinanet_r50.csv",
+        "./csv_output/paa_r50.csv"
+      ],
+      "weights": [
+        1,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "name": "WFD-2(TS)",
+      "submodels": [
+        "./csv_output/faster_rcnn_r50_mdconv.csv",
+        "./csv_output/sabl_faster_rcnn_r50.csv"
+      ],
+      "weights": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "WFD-3(AP50)",
+      "submodels": [
+        "./csv_output/retinanet_regnetx.csv",
+        "./csv_output/paa_r50.csv",
+        "./csv_output/fsaf_r50.csv",
+        "./csv_output/libra_retinanet_r50.csv"
+      ],
+      "weights": [
+        3,
+        3,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "WFD-4(Recall)",
+      "submodels": [
+        "./csv_output/retinanet_regnetx.csv",
+        "./csv_output/paa_r50.csv",
+        "./csv_output/fsaf_r50.csv",
+        "./csv_output/sabl_retinanet_r50.csv"
+      ],
+      "weights": [
+        1,
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "name": "WFD-5(LRPo Thresh)",
+      "submodels": [
+        "./csv_output/fsaf_r50.csv",
+        "./csv_output/faster_rcnn_r50.csv",
+        "./csv_output/faster_rcnn_r50_mdconv.csv",
+        "./csv_output/libra_retinanet_r50.csv",
+        "./csv_output/retinanet_r50.csv"
+      ],
+      "weights": [
+        2,
+        1,
+        4,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "WFD-6(Combo)",
+      "submodels": [
+        "./WFD-1(SS).csv",
+        "./WFD-3(AP50).csv",
+        "./WFD-4(Recall).csv",
+        "./WFD-5(LRPo Thresh).csv",
+        "./WFD-2(TS).csv"
+      ],
+      "weights": [
+        4,
+        4,
+        3,
+        5,
+        5
+      ]
+    }
+  ]
+}
