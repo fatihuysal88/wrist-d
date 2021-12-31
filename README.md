@@ -11,17 +11,17 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fracture-detection-in-wrist-x-ray-images/medical-object-detection-on-gazi-university)](https://paperswithcode.com/sota/medical-object-detection-on-gazi-university?p=fracture-detection-in-wrist-x-ray-images)  
 PyTorch Implementation for Fracture Detection in Wrist Bone X-ray Images
 # note:
-**Paper**: Under Review at MPDI Diagnostics  
+**Paper**: Preparing for MDPI Sensors  
 
-**Submission Date**: November 12, 2021  
+**Estimated Submission Date**: January, 2022 (Note: It will be submitted soon)  
 # abstract
 It will be added after research paper accepted  
 
 **Keywords**: artificial intelligence; biomedical image processing; bone fractures; deep learning; fracture detection; object detection; transfer learning; wrist; X-ray  
 # paper links
-**Paper**: Under Review at MPDI Diagnostics  
+**Paper**: Preparing for MDPI Sensors  
 
-**Preprint**: https://arxiv.org/abs/2111.07355  
+**Preprint**: https://arxiv.org/abs/2111.07355 (Note: New version will be added soon)  
 
 **Papers With Code**: https://paperswithcode.com/paper/fracture-detection-in-wrist-x-ray-images  
 
