@@ -21,7 +21,7 @@ It will be added after research paper accepted
 # paper links
 **Paper**: Under Review at MDPI Sensors  
 
-**Preprint**: https://arxiv.org/abs/2111.07355 (Note: New version will be added soon)  
+**Preprint**: https://arxiv.org/abs/2111.07355  
 
 **Papers With Code**: https://paperswithcode.com/paper/fracture-detection-in-wrist-x-ray-images  
 
